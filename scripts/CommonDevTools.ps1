@@ -5,3 +5,4 @@ choco install -y git --package-parameters="'/GitAndUnixToolsOnPath /WindowsTermi
 choco install -y python
 choco install -y 7zip.install
 choco install -y sysinternals
+choco install -y ditto
